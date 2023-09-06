@@ -71,7 +71,7 @@
 |Name|Github|Email|
 |:---|:---|:---|
 |이현섭|[leehandsub](https://github.com/leehandsub)|gustjq@naver.com|
-|허진수|[HJTN](https://github.com/HJTN)||zintn1234@naver.com|
+|허진수|[HJTN](https://github.com/HJTN)|zintn1234@naver.com|
 ### 서버
 |Name|Github|Email|
 |:---|:---|:---|
